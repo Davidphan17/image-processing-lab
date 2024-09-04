@@ -1,0 +1,5 @@
+Background
+Dog
+Human
+Cat
+Zoo Animal
